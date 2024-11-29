@@ -19,7 +19,7 @@ model into an interactive web application using Streamlit.
 * Documentation and Reporting
 ## Results:  
 ### XGBOOST regressor:
-Achieved the best performance with the highest R² and the lowest MSE/MAE, making it the chosen model for deployment.
+*Achieved the best performance with the highest R² and the lowest MSE/MAE, making it the chosen model for deployment.
 Optuna is used to tune the hyperparameters of the XGBoost model:
 Hyperparameters such as n_estimators, max_depth, learning_rate, subsample, and others are tuned.
 The model's performance was improved with hyperparameter tuning using Optuna.
