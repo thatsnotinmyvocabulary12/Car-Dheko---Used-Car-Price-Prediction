@@ -32,3 +32,4 @@ revolutionizes the user experience at CarDekho by delivering swift and
 reliable price estimates for used cars. 
 
 https://github.com/thatsnotinmyvocabulary12/Car-Dheko---Used-Car-Price-Prediction/blob/main/dheko%20app.png
+https://github.com/thatsnotinmyvocabulary12/Car-Dheko---Used-Car-Price-Prediction/blob/main/dheko%20app2.png
